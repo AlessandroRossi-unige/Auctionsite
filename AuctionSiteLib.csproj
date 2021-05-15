@@ -42,6 +42,8 @@
     <Content Include=".gitattributes" />
     <Content Include=".gitignore" />
     <Content Include=".git\ms-persist.xml" />
+    <Content Include="TAP2018-19_AuctionSite.AlarmClock.Interface.dll" />
+    <Content Include="TAP2018-19_AuctionSite.AuctionSite.Interface.dll" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".git\COMMIT_EDITMSG" />
